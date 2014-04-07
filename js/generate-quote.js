@@ -14,8 +14,8 @@ var quoter = (function(){
     }
 
     function generateQuote(){
-        var randomnumber = Math.floor(Math.random()*quoteData['Ice King'].length),
-            thisQuote = quoteData['Ice King'][randomnumber];
+        var randomnumber = Math.floor(Math.random()*quoteData['Actually'].length),
+            thisQuote = quoteData['Actually'][randomnumber];
 
         $('#quoteBox').html(thisQuote.quote);
         $('#epTitle').html(thisQuote.episode.title);
