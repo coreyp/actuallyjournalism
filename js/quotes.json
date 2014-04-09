@@ -1,5 +1,14 @@
 {"Actually" : [
     {
+        "quote" : "Lots of things. About 93 percent of the fuel we use for transportation comes from oil.",
+        "episode" : {
+            "title" : "What do we use oil and gas for?",
+            "season" : "Vox Media",
+            "episode" : 3,
+            "overall" : 3
+        }
+    },
+    {
         "quote" : "People who live on Fort Hood have their own massive indoor mall. … They can buy big screens, laptops, and Playstations right there on base.",
         "episode" : {
             "title" : "Inside Fort Hood, The Site Of Tragedy And Everyday American Life",
