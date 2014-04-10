@@ -1,5 +1,14 @@
 {"Actually" : [
     {
+        "quote" : "[W]onkish journalism is actually surprisingly cheap. ...[I]n terms of the amount of content produced per person, wonkery is incredibly efficient. Because it draws parasitically on the journalism of everybody else, it generally requires much less time, and many fewer layers of editors, than most news stories do.",
+        "episode" : {
+            "title" : "Is There a Wonk Bubble?",
+            "season" : "Politico Magazine",
+            "episode" : 3,
+            "overall" : 3
+        }
+    },
+    {
         "quote" : "Lots of things. About 93 percent of the fuel we use for transportation comes from oil.",
         "episode" : {
             "title" : "What do we use oil and gas for?",
