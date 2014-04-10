@@ -1,5 +1,14 @@
 {"Actually" : [
     {
+        "quote" : "Gwyneth Paltrow is an American actress, born into a Hollywood family, wooed by blockbuster heroes such as Ben Affleck and Brad Pitt, and noted for her blonde, lithe beauty.",
+        "episode" : {
+            "title" : "Who is Gwyneth Paltrow?",
+            "season" : "Vox Media",
+            "episode" : 3,
+            "overall" : 3
+        }
+    },
+    {
         "quote" : "[W]onkish journalism is actually surprisingly cheap. ...[I]n terms of the amount of content produced per person, wonkery is incredibly efficient. Because it draws parasitically on the journalism of everybody else, it generally requires much less time, and many fewer layers of editors, than most news stories do.",
         "episode" : {
             "title" : "Is There a Wonk Bubble?",
